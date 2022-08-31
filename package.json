@@ -159,7 +159,7 @@
     "node-range": "0.1.x"
   },
   "devDependencies": {
-    "github-changes": "^1.1.2",
+    "github-changes": "^2.0.3",
     "mocha": "^7.0.0",
     "nodeunit": "^0.11.3",
     "npm-release": "^1.0.0",
